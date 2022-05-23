@@ -1,0 +1,15 @@
+Trained[[:space:]]data filter=lfs diff=lfs merge=lfs -text
+/cnn87.mat filter=lfs diff=lfs merge=lfs -text
+/cnn.mat filter=lfs diff=lfs merge=lfs -text
+/.mat filter=lfs diff=lfs merge=lfs -text
+'Trained[[:space:]]data'/.mat filter=lfs diff=lfs merge=lfs -text
+'Trained[[:space:]]data'/*.mat filter=lfs diff=lfs merge=lfs -text
+Trained[[:space:]]data/ filter=lfs diff=lfs merge=lfs -text
+'Trained[[:space:]]data'/ filter=lfs diff=lfs merge=lfs -text
+Trained_data/ filter=lfs diff=lfs merge=lfs -text
+Trained_data/*.mat filter=lfs diff=lfs merge=lfs -text
+'Trained[[:space:]]data'/cnn.mat filter=lfs diff=lfs merge=lfs -text
+'Trained[[:space:]]data'/cnn87.mat filter=lfs diff=lfs merge=lfs -text
+Trained[[:space:]]data/cnn87.mat filter=lfs diff=lfs merge=lfs -text
+Trained[[:space:]]data/*.mat filter=lfs diff=lfs merge=lfs -text
+Trained[[:space:]]data/wallclock.mat filter=lfs diff=lfs merge=lfs -text
